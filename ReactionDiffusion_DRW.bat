@@ -1,0 +1,1 @@
+drawlog -mReactionDiffusion.ma -crd -lReactionDiffusion.log -w10 -p4 -0 >ReactionDiffusion.drw

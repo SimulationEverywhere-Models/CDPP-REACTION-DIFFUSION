@@ -1,0 +1,1 @@
+drawlog -mReactionDiffusion_bonus.ma -crd -lReactionDiffusion_bonus.log -w10 -p4 -0 >ReactionDiffusion_bonus.drw
